@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Helvetica;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: darkslategrey;
+    color: white;
+    border-radius: 15px;
+}
+
+p {
+    font-size: 35px;
+}
+
+.quotes {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color: brown;
+}
+
+button:hover{
+    background-color: lightcoral;
+}
